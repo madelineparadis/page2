@@ -13,8 +13,11 @@ p {
 
 }
 #sushi {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  width: 80px;
+  background: #ebb6af;
+  border: 15px dotted white;
+  padding: 100px;
+  margin: 100px;
+  text-shadow: 2px 2px white;
+   box-shadow: 10px 10px;
 }
